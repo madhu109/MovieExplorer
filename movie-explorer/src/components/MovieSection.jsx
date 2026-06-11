@@ -1,0 +1,1 @@
+export default function MovieSection(){return <div>Movie Section</div>}
